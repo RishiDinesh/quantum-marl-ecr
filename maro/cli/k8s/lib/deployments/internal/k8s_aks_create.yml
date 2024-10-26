@@ -1,0 +1,12 @@
+mode: ""
+name: ""
+
+cloud:
+  subscription: ""
+  resource_group: ""
+  location: ""
+  default_username: ""
+  default_public_key: ""
+
+master:
+  node_size: ""
